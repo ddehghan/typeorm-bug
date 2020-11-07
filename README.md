@@ -1,0 +1,1 @@
+This bug repro assumes you have a database called test on local machine with username and password set to "guest"
